@@ -1,0 +1,25 @@
+# Model checkpoints and datasets -- too large for git, regenerate via the scripts
+*.safetensors
+*_finetuned/
+*_dataset/
+*_tokenizer/
+*.txt
+!requirements.txt
+
+# LaTeX build artifacts
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
