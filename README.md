@@ -7,6 +7,8 @@ CS224N final project (custom project). Two fine-tuned GPT-2 language models for 
 
 Full writeup with methodology, results, and analysis: [`report/report.pdf`](report/report.pdf).
 
+Frontend repository for this: https://github.com/blackirron/Complete.io-web
+
 Live Demo: https://hinglish-sentence-completer-for-cas.vercel.app
 
 
